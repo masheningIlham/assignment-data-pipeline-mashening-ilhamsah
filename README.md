@@ -13,7 +13,7 @@ Automotive dataset that still needs to preprocess in order to be ready for analy
 This task used dataset is given from the bootcamp. You can find it on data/raw/automobileEDA_dirty_training.csv while the output of the pipeline is on data/processed directory
 
 ## Folder structure
-
+```
 data-pipeline-assignment/
 ├── data/
 │   ├── raw/
@@ -26,7 +26,7 @@ data-pipeline-assignment/
 │   └── data-flow-diagram.png
 ├── README.md
 └── requirements.txt
-
+```
 ## Initial dataset condition
 
 Size   : 205 x 30
