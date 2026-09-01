@@ -76,6 +76,7 @@ Columns with missing values:
 ## Number of records before and after processing
 
 Before processing   : 205 rows
+
 After processing    : 186 rows
 
 ## How to install dependency
